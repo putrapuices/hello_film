@@ -227,3 +227,16 @@ npm install semantic-ui-react semantic-ui-css
 
 import 'semantic-ui-css/semantic.min.css'
 
+Link Dokumentasi axios : https://www.npmjs.com/package/axios
+
+Link Dokumentasi react-router-dom :  
+
+https://www.npmjs.com/package/react-router-dom & https://reacttraining.com/react-router/web/guides/quick-start
+
+
+Cara Install react-router-dom & Axios
+
+Jalankan di terminal
+
+npm i react-router-dom axios
+
